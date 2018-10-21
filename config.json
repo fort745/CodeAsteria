@@ -1,0 +1,8 @@
+{
+  "serverName": "GameJam",
+  "mainPort": 4237,
+  "buildPort": 4238,
+  "password": "115253",
+  "maxRecentBuilds": 10,
+  "sessionSecret": "0ee069ff8024d1d7c70c17df0d8a64d4dc6d9b02067494b64e93874f88bd89331a7e90082d90ea998f1a9e1d471d5f86"
+}

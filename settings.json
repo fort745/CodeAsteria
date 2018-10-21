@@ -1,0 +1,23 @@
+{
+  "favoriteServers": [
+    {
+      "id": "0",
+      "hostname": "127.0.0.1",
+      "port": "4237",
+      "label": "My Server"
+    },
+    {
+      "id": "1",
+      "hostname": "192.168.1.6",
+      "port": "4237",
+      "label": ""
+    }
+  ],
+  "recentProjects": [],
+  "autoStartServer": true,
+  "nickname": "Legend",
+  "presence": "online",
+  "savedChatrooms": [
+    "#superpowers-html5"
+  ]
+}
