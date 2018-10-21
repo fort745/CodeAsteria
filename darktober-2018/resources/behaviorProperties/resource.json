@@ -1,0 +1,21 @@
+{
+  "behaviors": {
+    "CharacterBehavior": {
+      "scriptId": "0",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        }
+      ]
+    },
+    "EbbBehavior": {
+      "scriptId": "0",
+      "line": 26,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

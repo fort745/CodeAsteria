@@ -1,0 +1,51 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 100,
+  "framesPerSecond": 12,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 32,
+    "height": 32
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "Ebb Row",
+      "startFrameIndex": 0,
+      "endFrameIndex": 7,
+      "speed": 1.5
+    },
+    {
+      "id": "1",
+      "name": "Ebb Paddle",
+      "startFrameIndex": 8,
+      "endFrameIndex": 15,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "Ebb Idle",
+      "startFrameIndex": 16,
+      "endFrameIndex": 23,
+      "speed": 0.5
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}

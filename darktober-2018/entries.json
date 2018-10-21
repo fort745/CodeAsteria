@@ -1,0 +1,49 @@
+{
+  "nextEntryId": 8,
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Script",
+      "type": "script"
+    },
+    {
+      "id": "2",
+      "name": "Main Scene",
+      "type": "scene"
+    },
+    {
+      "id": "1",
+      "name": "Ebb",
+      "type": "sprite"
+    },
+    {
+      "id": "3",
+      "name": "Sprites",
+      "type": null,
+      "children": []
+    },
+    {
+      "id": "4",
+      "name": "Text",
+      "type": null,
+      "children": []
+    },
+    {
+      "id": "5",
+      "name": "Environment",
+      "type": null,
+      "children": [
+        {
+          "id": "6",
+          "name": "BG mid",
+          "type": "sprite"
+        },
+        {
+          "id": "7",
+          "name": "BG Desc",
+          "type": "sprite"
+        }
+      ]
+    }
+  ]
+}
